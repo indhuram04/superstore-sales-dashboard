@@ -42,6 +42,7 @@ The goal of this project is to transform raw sales data into meaningful business
 - `dashboard.png` → Dashboard Screenshot
 
  📸 Dashboard Preview
+ 
  <img width="1281" height="724" alt="Screenshot 2026-05-07 115632" src="https://github.com/user-attachments/assets/9db920d5-7f35-4ad7-80a1-19969a0aa280" />
 
 🎯 Project Outcome
@@ -52,6 +53,6 @@ This project helped improve skills in:
 - Dashboard Development
 - Business Analytics
 - Storytelling with Data
-- 
+
 👩‍💻 Author
 Indhumathi
